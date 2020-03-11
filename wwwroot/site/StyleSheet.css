@@ -1,0 +1,51 @@
+﻿body {
+    background-image:url(../images/nerals.jpg);
+    background-size:cover;
+}
+
+ul{
+    list-style-type:none;
+    margin-left:-110px;
+    margin-right:-110px;
+    padding-left:50px;
+    overflow:hidden;
+    background-color:green;
+    
+}
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+    
+}
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 5px 14px;
+       
+    }
+li a:hover{
+    background-color:#111;
+}
+.active{
+    background-color:#333;
+}
+.index {
+    background-color: whitesmoke;
+    margin-left:-90px;
+    margin-right:-90px;
+    text-align:center;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:30px;
+    padding-top:10px;
+    
+}
+.footer{
+    margin-top:-20px;
+    background-color:wheat;
+    margin:initial;
+}
+h1{
+   text-decoration-color:yellow;
+}
