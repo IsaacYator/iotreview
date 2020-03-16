@@ -21,7 +21,27 @@ namespace AIoTuesdaysReview.Controllers
         {
             return View();
         }
+        public IActionResult  AI()
+        {
+            return View();
+        }
 
+        public IActionResult  DiscussionForum()
+        {
+            return View();
+        }
+        public IActionResult  Events()
+        {
+            return View();
+        }
+        public IActionResult  News()
+        {
+            return View();
+        }
+        public IActionResult  UserProfile()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
