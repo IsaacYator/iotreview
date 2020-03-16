@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\AIoTuesdaysReview\\AIoTuesdaysReview.csproj",
+      "projectUniqueName": "C:\\Users\\isaac\\Desktop\\AIoTTuesdays\\iotreview\\AIoTuesdaysReview.csproj",
       "projectName": "AIoTuesdaysReview",
-      "projectPath": "C:\\Users\\isaac\\source\\repos\\AIoTuesdaysReview\\AIoTuesdaysReview.csproj",
+      "projectPath": "C:\\Users\\isaac\\Desktop\\AIoTTuesdays\\iotreview\\AIoTuesdaysReview.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac\\source\\repos\\AIoTuesdaysReview\\obj\\",
+      "outputPath": "C:\\Users\\isaac\\Desktop\\AIoTTuesdays\\iotreview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
