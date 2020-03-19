@@ -1,8 +1,10 @@
 ﻿body {
-    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 .AI {
+    
     background-color: whitesmoke;
     margin-left: -90px;
     margin-right: -90px;
@@ -12,9 +14,18 @@
     padding-bottom: 30px;
     padding-top: 10px;
 }
+.AI ul{
+
+}
 
 .footer {
     margin-top: -20px;
     background-color: wheat;
     margin: initial;
+}
+.centre-img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
 }
